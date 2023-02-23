@@ -8,7 +8,7 @@ public class Main {
 		String a = t.nextLine();
 		System.out.println("Olá" + a);
 		System.out.println("Olá Mundo");
-		
+		System.out.println("Olá Dev");
 		
 	}
 
